@@ -1,0 +1,7 @@
+[project]
+name = "End-To-End_Modular_RAG_Medical_Diagnosis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
