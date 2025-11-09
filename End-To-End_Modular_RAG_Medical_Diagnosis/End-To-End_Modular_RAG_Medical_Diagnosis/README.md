@@ -1,6 +1,6 @@
 # 🏥 Medical Report Diagnosis
 
-![YouTube Thumbnail](/assets/thumbnail.png)
+
 
 This is the **FastAPI-based backend** for the **Medical Diagnosis Application**, which provides authentication, PDF report upload, AI-powered medical diagnosis using LLaMA 3 via Groq API, and stores metadata in MongoDB with Pinecone for vector storage.
 
@@ -89,8 +89,8 @@ This is the **FastAPI-based backend** for the **Medical Diagnosis Application**,
 ### 1️⃣ Clone the Repository
 
 ```bash
-#git clone https://github.com/snsupratim/MedicalReportDiagnosis.git
-#cd MedicalReportDiagnosis
+https://github.com/nitesh00877/End-To-End_Modular_RAG_Medical_Diagnosis
+
 cd End-To-End_Modular_RAG_Medical_Diagnosis
 ```
 
@@ -165,8 +165,3 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-For any queries, feel free to connect:
-
-- **Author:** \[Supratim Nag]
-- **Email:** [snsupratim@gmail.com](mailto:snsupratim@gmail.com)
-- **YouTube:** [sn dev](https://www.youtube.com/@sn-develpoment)
